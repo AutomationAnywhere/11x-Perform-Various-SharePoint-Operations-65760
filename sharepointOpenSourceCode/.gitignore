@@ -1,0 +1,28 @@
+# ignore files
+
+## Ignore Office temporary files
+~$*.pptx
+~$*.docx
+
+## Ignore Visual Studio temporary files, build results, and
+.vs/
+
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
